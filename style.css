@@ -1,0 +1,162 @@
+
+
+
+h1 {
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 24px;
+    color:#F9FAF8;
+    background-color: #1F2937;
+    margin: 0;
+    gap:10px;
+
+}
+
+.headerlogo {
+    font-size: 24px;
+    color: #F9FAF8;
+    
+    
+}
+
+.headerlinks {
+    display:flex;
+    gap: 25px;
+    font-size: 18px;
+    color: #E5E7EB;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.A1 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 30px;
+    background-color: #1F2937;
+    gap:30px;
+    
+}
+
+.backgroundimg {
+    height: auto;
+    width: auto;
+    max-width: 400px;
+    max-height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.A3 {
+    display: flex;
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
+
+.A2 { 
+    max-width: 400px;
+    max-height: 400px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    color: white;
+    background-color: #3882F6;
+}
+
+.puppyimg {
+    max-width: 150px;
+    max-height: 150px;
+    border: 2px solid blue;
+    
+}
+
+.B2 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.B3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.B4 {
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    padding-bottom: 70px;
+}
+
+.B5 {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.C1 {
+    background-color:#E5E7EB ;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.C2 {
+    display:flex;
+    justify-content: center;
+    width: 500px;
+    margin: 0 auto;
+    font-size: 36px;
+    font-weight: #1f2937;
+}
+
+.C3 {
+    margin-left: 1025px;
+    font-weight: 800;
+}
+
+.D1 {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    width: 600px;
+    margin: 55px auto;
+    padding: 40px;
+    gap: 50px;
+}
+
+.D2 {
+    color: white;
+    font-weight: 800;
+}
+
+.D3 {
+    color: white;
+}
+
+.D4 {
+    border-color:white;
+    width:15%;
+}
+
+.E1 {
+    background-color: #1F2937;
+    
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

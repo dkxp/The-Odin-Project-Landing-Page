@@ -13,22 +13,18 @@ h1 {
     background-color: #1F2937;
     margin: 0;
     gap:10px;
-
 }
 
 .headerlogo {
     font-size: 24px;
-    color: #F9FAF8;
-    
-    
+    color: #F9FAF8;  
 }
 
 .headerlinks {
     display:flex;
     gap: 25px;
     font-size: 18px;
-    color: #E5E7EB;
-    
+    color: #E5E7EB;   
 }
 
 a {
@@ -55,13 +51,6 @@ a {
     flex-direction: column;
 }
 
-.A3 {
-    display: flex;
-    font-size: 48px;
-    color: #F9FAF8;
-    font-weight: 800;
-}
-
 .A2 { 
     max-width: 400px;
     max-height: 400px;
@@ -69,9 +58,23 @@ a {
     color: #E5E7EB;
 }
 
+.A3 {
+    display: flex;
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 800;
+    margin-bottom: 10px;
+    margin-top: -60px;
+}
+
+.A4 {
+    margin-bottom: 15px;
+}
+
 button {
     color: white;
     background-color: #3882F6;
+    border-radius:25px;
 }
 
 .puppyimg {
@@ -127,7 +130,7 @@ button {
 
 .C1 {
     background-color:#E5E7EB ;
-    padding-top: 70px;
+    padding-top: 50px;
     padding-bottom: 30px;
 }
 
